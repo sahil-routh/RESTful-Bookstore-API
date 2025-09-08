@@ -1,7 +1,5 @@
 # RESTful-Bookstore-API
 
-# Book Management System
-
 ## Introduction
 
 The Book Management System is a RESTful web application built using Spring Boot and Spring Data JPA. It allows users to manage books and authors efficiently, providing CRUD (Create, Read, Update, Delete) operations through a REST API. This system can be used as a backend for web or mobile applications.
